@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
-	name = gh api user/emails | jq -r '.[].email'
+	email = felipehuertafernandez@gmail.com
+	name = Felipe huerta
